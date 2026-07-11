@@ -24,5 +24,7 @@ print(type(e))
 
 
 f = "3456"
+print(type(f))
 f = int(f)
+print(type(f))
 print("f+2 =", f+2)

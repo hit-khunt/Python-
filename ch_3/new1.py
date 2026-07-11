@@ -1,4 +1,4 @@
-story = '''once upon a time there was a youtuber namd Harry
+story = '''once upon a time there was a youtuber named Harry
  who uploaded python course with notes'''
 
 print(len(story))

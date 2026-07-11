@@ -32,5 +32,5 @@ print(b)
 bool1 = True
 bool2 = False
 print("the value of bool1 is", (bool1 and bool2))
-printf("the value of bool1 is", (bool1 or bool2))
+print("the value of bool1 is", (bool1 or bool2))
 print("the value of bool1 is", (not bool2))
