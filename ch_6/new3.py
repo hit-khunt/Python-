@@ -5,7 +5,9 @@ p4 = "click this"
 
 message = input("Enter your comment: ")
 
-if((p1 in message)or(p2 in message)or(p3 in message)or(p4 in message)):
+if((p1 in message.lower())or(p2 in message)or(p3 in message)or(p4 in message)):
     print("This comment is spam.")
 else:
     print("This comment is not spam.")
+
+#.lower() is used to convert font in lower case font.
